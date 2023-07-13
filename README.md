@@ -1,1 +1,1 @@
-This repo just contains some test data fails, nothing interesting.
+This repo just contains some test data files, nothing interesting.
